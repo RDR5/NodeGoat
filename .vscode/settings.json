@@ -1,0 +1,11 @@
+{
+    "cx.server": {
+        "url": "http://localhost/",
+        "alias": "9.2manager",
+        "username": "admin",
+        "password": "X///DlDBTxiVomSQuE+N/YMFZQs9OzwcWw==",
+        "project_id": 7,
+        "team_id": 8,
+        "project_name": "NodeGoat"
+    }
+}
